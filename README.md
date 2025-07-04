@@ -67,8 +67,12 @@ titanic.csv - Dataset inicial
 README.md - Este mismo archivo
 
 ## 👤 Autora
-Fabiola Isabel Lozano Molina / Estudiante de Análisis de Datos
 
-📧 [flozano0515@gmail.com]
+**Fabiola Lozano**  
+Ingeniera Industrial | Analista de Datos | Optimización  
 
-🔗 [https://github.com/Fabiloz] 
+💼 https://www.linkedin.com/in/fabiolalozano
+
+📧 flozano0515@gmail.com
+
+🔗 https://github.com/Fabiloz
